@@ -1,0 +1,7 @@
+- Brute force approach
+- Record the length of the query
+- Create a list
+- Go through each word in the query and dictionary
+- Compare each letter and record any letter that is different
+- By the end, if it requires less than or equal to 2 edits, add to the list, otherwise do not
+- Return final list
