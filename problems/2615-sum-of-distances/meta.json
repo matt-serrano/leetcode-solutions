@@ -1,0 +1,11 @@
+{
+  "id": "2615",
+  "title": "Sum of Distances",
+  "slug": "sum-of-distances",
+  "difficulty": "Medium",
+  "language": "python3",
+  "solved_at": "2026-04-23T20:19:26.257Z",
+  "source": "leetcode",
+  "url": "https://leetcode.com/problems/sum-of-distances/",
+  "github_repo_url": "https://github.com/matt-serrano/leetcode-solutions/tree/main/problems/2615-sum-of-distances"
+}

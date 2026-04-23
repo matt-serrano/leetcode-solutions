@@ -1,0 +1,3 @@
+- Create suffix and prefix maps
+- Record distance, update occurrences, last location.
+- Add them together at the end
