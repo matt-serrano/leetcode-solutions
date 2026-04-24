@@ -1,0 +1,3 @@
+- keep track of left, right and wildcards
+- iterate through the string and record values based on characters
+- return the difference between left and right + the wildcard

@@ -1,0 +1,11 @@
+{
+  "id": "2833",
+  "title": "Furthest Point From Origin",
+  "slug": "furthest-point-from-origin",
+  "difficulty": "Easy",
+  "language": "python3",
+  "solved_at": "2026-04-24T17:31:59.247Z",
+  "source": "leetcode",
+  "url": "https://leetcode.com/problems/furthest-point-from-origin/",
+  "github_repo_url": "https://github.com/matt-serrano/leetcode-solutions/tree/main/problems/2833-furthest-point-from-origin"
+}
