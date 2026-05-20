@@ -3,8 +3,8 @@
   "title": "Two Sum",
   "slug": "two-sum",
   "difficulty": "Easy",
-  "language": "cpp",
-  "solved_at": "2026-04-22T05:41:04.351Z",
+  "language": "python3",
+  "solved_at": "2026-05-20T02:54:34.457Z",
   "source": "leetcode",
   "url": "https://leetcode.com/problems/two-sum/",
   "github_repo_url": "https://github.com/matt-serrano/leetcode-solutions/tree/main/problems/1-two-sum"
