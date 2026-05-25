@@ -1,0 +1,4 @@
+- Define a count
+- Create a list of jumps
+- Go through the string sequentially and record the jump lengths
+- Return the boolean if the min and max jumps are in the string

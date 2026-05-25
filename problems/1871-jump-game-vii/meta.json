@@ -1,0 +1,11 @@
+{
+  "id": "1871",
+  "title": "Jump Game VII",
+  "slug": "jump-game-vii",
+  "difficulty": "Medium",
+  "language": "python3",
+  "solved_at": "2026-05-25T02:50:51.108Z",
+  "source": "leetcode",
+  "url": "https://leetcode.com/problems/jump-game-vii/",
+  "github_repo_url": "https://github.com/matt-serrano/leetcode-solutions/tree/main/problems/1871-jump-game-vii"
+}
