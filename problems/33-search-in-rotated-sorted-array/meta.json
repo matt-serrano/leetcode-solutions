@@ -1,0 +1,11 @@
+{
+  "id": "33",
+  "title": "Search in Rotated Sorted Array",
+  "slug": "search-in-rotated-sorted-array",
+  "difficulty": "Medium",
+  "language": "python3",
+  "solved_at": "2026-06-03T03:32:55.082Z",
+  "source": "leetcode",
+  "url": "https://leetcode.com/problems/search-in-rotated-sorted-array/",
+  "github_repo_url": "https://github.com/matt-serrano/leetcode-solutions/tree/main/problems/33-search-in-rotated-sorted-array"
+}
