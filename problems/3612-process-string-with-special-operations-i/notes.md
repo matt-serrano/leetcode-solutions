@@ -1,0 +1,7 @@
+- Create an array
+- Iterate through the string
+- If the char is a letter, append to the array
+- *, pop
+- '#' add the array to the array
+- '%' move the last letter
+- return the joined array

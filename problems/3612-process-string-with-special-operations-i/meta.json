@@ -1,0 +1,11 @@
+{
+  "id": "3612",
+  "title": "Process String with Special Operations I",
+  "slug": "process-string-with-special-operations-i",
+  "difficulty": "Medium",
+  "language": "python3",
+  "solved_at": "2026-06-16T01:46:12.010Z",
+  "source": "leetcode",
+  "url": "https://leetcode.com/problems/process-string-with-special-operations-i/",
+  "github_repo_url": "https://github.com/matt-serrano/leetcode-solutions/tree/main/problems/3612-process-string-with-special-operations-i"
+}
