@@ -1,0 +1,4 @@
+- Calculate hour and minute angle
+- Take the absolute value of thir difference
+- Also subtract their difference from 360 
+- Compare and return the minimum
