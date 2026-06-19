@@ -1,0 +1,5 @@
+- create an altitudes array
+- keep track of length
+- keep track of highest
+- iterate and calculate the next altitude
+- compare altitude if it is larger than highest, then change highest if needed

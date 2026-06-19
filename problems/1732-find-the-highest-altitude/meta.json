@@ -1,0 +1,11 @@
+{
+  "id": "1732",
+  "title": "Find the Highest Altitude",
+  "slug": "find-the-highest-altitude",
+  "difficulty": "Easy",
+  "language": "python3",
+  "solved_at": "2026-06-19T03:19:29.622Z",
+  "source": "leetcode",
+  "url": "https://leetcode.com/problems/find-the-highest-altitude/",
+  "github_repo_url": "https://github.com/matt-serrano/leetcode-solutions/tree/main/problems/1732-find-the-highest-altitude"
+}
