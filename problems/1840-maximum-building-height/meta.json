@@ -1,0 +1,11 @@
+{
+  "id": "1840",
+  "title": "Maximum Building Height",
+  "slug": "maximum-building-height",
+  "difficulty": "Hard",
+  "language": "python3",
+  "solved_at": "2026-06-20T02:42:46.943Z",
+  "source": "leetcode",
+  "url": "https://leetcode.com/problems/maximum-building-height/",
+  "github_repo_url": "https://github.com/matt-serrano/leetcode-solutions/tree/main/problems/1840-maximum-building-height"
+}
