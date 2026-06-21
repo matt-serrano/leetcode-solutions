@@ -1,0 +1,11 @@
+{
+  "id": "1833",
+  "title": "Maximum Ice Cream Bars",
+  "slug": "maximum-ice-cream-bars",
+  "difficulty": "Medium",
+  "language": "python3",
+  "solved_at": "2026-06-21T03:13:23.992Z",
+  "source": "leetcode",
+  "url": "https://leetcode.com/problems/maximum-ice-cream-bars/",
+  "github_repo_url": "https://github.com/matt-serrano/leetcode-solutions/tree/main/problems/1833-maximum-ice-cream-bars"
+}
