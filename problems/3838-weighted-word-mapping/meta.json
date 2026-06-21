@@ -1,0 +1,11 @@
+{
+  "id": "3838",
+  "title": "Weighted Word Mapping",
+  "slug": "weighted-word-mapping",
+  "difficulty": "Easy",
+  "language": "python3",
+  "solved_at": "2026-06-21T18:50:19.786Z",
+  "source": "leetcode",
+  "url": "https://leetcode.com/problems/weighted-word-mapping/",
+  "github_repo_url": "https://github.com/matt-serrano/leetcode-solutions/tree/main/problems/3838-weighted-word-mapping"
+}

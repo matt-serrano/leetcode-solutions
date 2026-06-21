@@ -1,0 +1,5 @@
+- Keep a list
+- Iterate through the list of words and keep track of each individual weight
+- Iterate through the letters, and calculate the total weight
+- Calculate the letter then add to the list
+- Return the final list as a string
