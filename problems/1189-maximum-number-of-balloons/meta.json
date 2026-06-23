@@ -1,0 +1,11 @@
+{
+  "id": "1189",
+  "title": "Maximum Number of Balloons",
+  "slug": "maximum-number-of-balloons",
+  "difficulty": "Easy",
+  "language": "python3",
+  "solved_at": "2026-06-23T02:42:12.783Z",
+  "source": "leetcode",
+  "url": "https://leetcode.com/problems/maximum-number-of-balloons/",
+  "github_repo_url": "https://github.com/matt-serrano/leetcode-solutions/tree/main/problems/1189-maximum-number-of-balloons"
+}

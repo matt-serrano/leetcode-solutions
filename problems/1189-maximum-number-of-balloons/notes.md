@@ -1,0 +1,3 @@
+- Keep track of all the appearances of the letters
+- Iterate through the text and increment as each appears
+- Divide all letters by their expected occurences and return the minimum
