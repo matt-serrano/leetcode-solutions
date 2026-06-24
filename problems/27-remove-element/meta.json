@@ -1,0 +1,11 @@
+{
+  "id": "27",
+  "title": "Remove Element",
+  "slug": "remove-element",
+  "difficulty": "Easy",
+  "language": "python3",
+  "solved_at": "2026-06-24T03:33:35.538Z",
+  "source": "leetcode",
+  "url": "https://leetcode.com/problems/remove-element/",
+  "github_repo_url": "https://github.com/matt-serrano/leetcode-solutions/tree/main/problems/27-remove-element"
+}

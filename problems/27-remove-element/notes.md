@@ -1,0 +1,1 @@
+iterate and increase counter if element is found
