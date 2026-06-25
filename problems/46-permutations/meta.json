@@ -1,0 +1,11 @@
+{
+  "id": "46",
+  "title": "Permutations",
+  "slug": "permutations",
+  "difficulty": "Medium",
+  "language": "python3",
+  "solved_at": "2026-06-25T03:16:18.391Z",
+  "source": "leetcode",
+  "url": "https://leetcode.com/problems/permutations/",
+  "github_repo_url": "https://github.com/matt-serrano/leetcode-solutions/tree/main/problems/46-permutations"
+}
