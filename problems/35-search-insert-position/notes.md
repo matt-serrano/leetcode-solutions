@@ -1,0 +1,1 @@
+binary search until l <= r, and then return position or one step ahead

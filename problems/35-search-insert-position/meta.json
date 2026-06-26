@@ -1,0 +1,11 @@
+{
+  "id": "35",
+  "title": "Search Insert Position",
+  "slug": "search-insert-position",
+  "difficulty": "Easy",
+  "language": "python3",
+  "solved_at": "2026-06-26T03:09:08.645Z",
+  "source": "leetcode",
+  "url": "https://leetcode.com/problems/search-insert-position/",
+  "github_repo_url": "https://github.com/matt-serrano/leetcode-solutions/tree/main/problems/35-search-insert-position"
+}
