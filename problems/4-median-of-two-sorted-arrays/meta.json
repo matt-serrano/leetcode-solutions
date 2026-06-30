@@ -1,0 +1,11 @@
+{
+  "id": "4",
+  "title": "Median of Two Sorted Arrays",
+  "slug": "median-of-two-sorted-arrays",
+  "difficulty": "Hard",
+  "language": "python3",
+  "solved_at": "2026-06-30T14:01:21.550Z",
+  "source": "leetcode",
+  "url": "https://leetcode.com/problems/median-of-two-sorted-arrays/",
+  "github_repo_url": "https://github.com/matt-serrano/leetcode-solutions/tree/main/problems/4-median-of-two-sorted-arrays"
+}
