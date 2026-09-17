@@ -1,5 +1,1 @@
-- Create a number map
-- Enumerate through nums, keeping track of both the value and the index
-- Take the complement by subtracting the target with the current number
-- Constantly add numbers along with their occurrences in the hashmap
-- If the compliment is in the numMap, return its index occurrence and the current occurrence index
+re-did it
