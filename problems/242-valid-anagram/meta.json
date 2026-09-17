@@ -1,0 +1,11 @@
+{
+  "id": "242",
+  "title": "Valid Anagram",
+  "slug": "valid-anagram",
+  "difficulty": "Easy",
+  "language": "python3",
+  "solved_at": "2026-09-17T22:49:43.080Z",
+  "source": "leetcode",
+  "url": "https://leetcode.com/problems/valid-anagram/",
+  "github_repo_url": "https://github.com/matt-serrano/leetcode-solutions/tree/main/problems/242-valid-anagram"
+}

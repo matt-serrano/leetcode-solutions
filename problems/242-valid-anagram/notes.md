@@ -1,0 +1,1 @@
+create 2 sets for each word, iterate and create instances of each letter, return comparison
