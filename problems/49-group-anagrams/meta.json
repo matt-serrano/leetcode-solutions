@@ -1,0 +1,11 @@
+{
+  "id": "49",
+  "title": "Group Anagrams",
+  "slug": "group-anagrams",
+  "difficulty": "Medium",
+  "language": "python3",
+  "solved_at": "2026-09-18T15:56:37.406Z",
+  "source": "leetcode",
+  "url": "https://leetcode.com/problems/group-anagrams/",
+  "github_repo_url": "https://github.com/matt-serrano/leetcode-solutions/tree/main/problems/49-group-anagrams"
+}
