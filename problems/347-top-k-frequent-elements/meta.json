@@ -1,0 +1,11 @@
+{
+  "id": "347",
+  "title": "Top K Frequent Elements",
+  "slug": "top-k-frequent-elements",
+  "difficulty": "Medium",
+  "language": "python3",
+  "solved_at": "2026-09-24T03:43:06.974Z",
+  "source": "leetcode",
+  "url": "https://leetcode.com/problems/top-k-frequent-elements/",
+  "github_repo_url": "https://github.com/matt-serrano/leetcode-solutions/tree/main/problems/347-top-k-frequent-elements"
+}
